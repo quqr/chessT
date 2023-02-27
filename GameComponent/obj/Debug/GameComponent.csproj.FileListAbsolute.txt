@@ -1,0 +1,8 @@
+D:\Code\C#\Chess-master\GameComponent\bin\Debug\GameComponent.dll
+D:\Code\C#\Chess-master\GameComponent\bin\Debug\GameComponent.pdb
+D:\Code\C#\Chess-master\GameComponent\obj\Debug\GameComponent.csproj.AssemblyReference.cache
+D:\Code\C#\Chess-master\GameComponent\obj\Debug\GameComponent.Properties.Resources.resources
+D:\Code\C#\Chess-master\GameComponent\obj\Debug\GameComponent.csproj.GenerateResource.cache
+D:\Code\C#\Chess-master\GameComponent\obj\Debug\GameComponent.csproj.CoreCompileInputs.cache
+D:\Code\C#\Chess-master\GameComponent\obj\Debug\GameComponent.dll
+D:\Code\C#\Chess-master\GameComponent\obj\Debug\GameComponent.pdb

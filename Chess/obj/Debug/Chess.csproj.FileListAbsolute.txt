@@ -1,0 +1,13 @@
+D:\Code\C#\Chess-master\Chess\bin\Debug\Chess.exe
+D:\Code\C#\Chess-master\Chess\bin\Debug\Chess.pdb
+D:\Code\C#\Chess-master\Chess\bin\Debug\GameComponent.dll
+D:\Code\C#\Chess-master\Chess\bin\Debug\GameComponent.pdb
+D:\Code\C#\Chess-master\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+D:\Code\C#\Chess-master\Chess\obj\Debug\Chess.frmDubug.resources
+D:\Code\C#\Chess-master\Chess\obj\Debug\Chess.frmMain.resources
+D:\Code\C#\Chess-master\Chess\obj\Debug\Chess.Properties.Resources.resources
+D:\Code\C#\Chess-master\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+D:\Code\C#\Chess-master\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+D:\Code\C#\Chess-master\Chess\obj\Debug\Chess.csproj.CopyComplete
+D:\Code\C#\Chess-master\Chess\obj\Debug\Chess.exe
+D:\Code\C#\Chess-master\Chess\obj\Debug\Chess.pdb
